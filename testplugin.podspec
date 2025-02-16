@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'testplugin'
-    s.version = '1.0.1'
+    s.version = '1.0.2'
     s.summary          = 'A sample Swift framework for iOS.'
     s.description      = <<-DESC
                           testplugin is a simple Swift framework that provides string manipulation functionality.
